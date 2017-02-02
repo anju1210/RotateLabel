@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RotateLabel_Example' do
+  pod 'RotateLabel', :path => '../'
+
+  target 'RotateLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
