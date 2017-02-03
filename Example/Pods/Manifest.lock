@@ -1,0 +1,16 @@
+PODS:
+  - RotateLabel (0.1.0)
+
+DEPENDENCIES:
+  - RotateLabel (from `../`)
+
+EXTERNAL SOURCES:
+  RotateLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RotateLabel: 4b187e74c820201e27f61cace7b5cd19d7d18c50
+
+PODFILE CHECKSUM: dad14801b253f3be1d38b73a553af861ee61af3e
+
+COCOAPODS: 1.2.0

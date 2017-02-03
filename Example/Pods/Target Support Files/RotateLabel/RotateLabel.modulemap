@@ -1,0 +1,6 @@
+framework module RotateLabel {
+  umbrella header "RotateLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

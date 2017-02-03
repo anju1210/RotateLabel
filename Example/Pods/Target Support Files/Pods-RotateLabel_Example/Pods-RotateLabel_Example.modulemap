@@ -1,0 +1,6 @@
+framework module Pods_RotateLabel_Example {
+  umbrella header "Pods-RotateLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
